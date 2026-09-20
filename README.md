@@ -125,7 +125,7 @@ CNN on Mel-spectrograms for industrial predictive maintenance, deployed via Stre
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadvik-asus/sadvik-asus/output/activity-graph.svg" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sadvik-asus&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
