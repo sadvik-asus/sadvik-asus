@@ -1,0 +1,28 @@
+name: generate activity graph
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  activity-graph:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Ashutosh00710/github-readme-activity-graph@v1
+        with:
+          github-username: sadvik-asus
+          theme: tokyo-night
+          output: activity-graph.svg
+
+      - name: Push to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout output || git checkout -b output
+          mkdir -p activity
+          mv activity-graph.svg activity/activity-graph.svg
+          git add activity/activity-graph.svg
+          git commit -m "Update activity graph" || echo "No changes"
+          git push origin output
