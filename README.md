@@ -116,8 +116,8 @@ CNN on Mel-spectrograms for industrial predictive maintenance, deployed via Stre
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadvik-asus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadvik-asus&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sadvik-asus&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sadvik-asus&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
