@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sadvik+Kumar" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=600&lines=V+.+Sadvik+Kumar" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Systems-Level+ML+%7C+Network+Intelligence;Federated+Learning+%7C+Security" alt="Typing SVG" />
 
